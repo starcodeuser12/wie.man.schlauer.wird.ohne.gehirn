@@ -1,0 +1,26 @@
+
+body{background-color: pink ;}
+h1{
+	font-size: 70px;
+	font-family: "Blackadder ITC";
+	text-align: center;
+	}
+	p{color: white;
+		font-size: 30px;}
+	
+	h2{font-size:50px}
+	ul{color: white;
+		font-size: 30px;}
+		
+.Liste{background-color: purple ;
+width: 50%;
+float: left;
+}
+.Bild{background-color: lightblue ;
+width: 50%; 
+float: right;
+} 
+.Einleitung{background-color: lightgreen ; 
+width: 50%;
+float: left;
+}
